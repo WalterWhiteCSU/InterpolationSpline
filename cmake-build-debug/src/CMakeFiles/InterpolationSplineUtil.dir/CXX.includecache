@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project/QtProject/InterpolationSpline/InterpolationSpline/src/BezierManager.cpp
+BezierManager.h
+D:/Project/QtProject/InterpolationSpline/InterpolationSpline/src/BezierManager.h
+
+D:/Project/QtProject/InterpolationSpline/InterpolationSpline/src/BezierManager.h
+vector
+-
+QPointF
+-
+

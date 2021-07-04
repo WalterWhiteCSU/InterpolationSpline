@@ -1,0 +1,5 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Project\QtProject\InterpolationSpline\InterpolationSpline
+-- Could NOT find Vulkan (missing: Vulkan_LIBRARY Vulkan_INCLUDE_DIR) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Project/QtProject/InterpolationSpline/InterpolationSpline/cmake-build-debug

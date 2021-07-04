@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw810_64\bin\ar.exe qc libInterpolationSplineUtil.a CMakeFiles/InterpolationSplineUtil.dir/BezierManager.cpp.obj
+C:\Qt\Tools\mingw810_64\bin\ranlib.exe libInterpolationSplineUtil.a
